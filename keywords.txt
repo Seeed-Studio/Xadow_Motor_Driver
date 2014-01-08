@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For debug_lvc
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+XadowMotor	KEYWORD1
+xadowMotor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+getBatVol	KEYWORD2
+setMotorRun	KEYWORD2
+setPwrDown	KEYWORD2
+setWakeUp	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+MSTOP	LITERAL1
+MFOR	LITERAL1
+MREV	LITERAL1
+MHOLD	LITERAL1
+MOTORA	LITERAL1
+MOTORB	LITERAL1
