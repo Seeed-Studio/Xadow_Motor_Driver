@@ -1,6 +1,9 @@
 Xadow - Motor Driver
 ---------------------------------------------------------
-[![Xadow - Motor Driver](http://www.seeedstudio.com/depot/images/product/x%20motor.jpg)](http://www.seeedstudio.com/depot/xadow-motor-driver-p-1626.html?cPath=91_92)
+
+![](https://statics3.seeedstudio.com/images/product/x%20motor.jpg)
+
+[Xadow - Motor Driver](https://www.seeedstudio.com/Xadow-Motor-Driver-p-1626.html)
 
 Xadow Motor can be used to control DC Motors. Its heart is a low-saturation two-channel bidirectional motor drive chip LB1836M, controlled by ATmega168 which handles the I2C communication with Xadow Main Board. Xadow Motor features a changeable I2C address. And it needs a separate low power to drive motors.
  
