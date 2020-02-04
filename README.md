@@ -1,4 +1,4 @@
-Xadow - Motor Driver
+Xadow - Motor Driver  [![Build Status](https://travis-ci.com/Seeed-Studio/Xadow_Motor_Driver.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Xadow_Motor_Driver)
 ---------------------------------------------------------
 
 ![](https://statics3.seeedstudio.com/images/product/x%20motor.jpg)
